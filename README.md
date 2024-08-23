@@ -3,7 +3,6 @@
 <h3 align="center">A backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/579fe1183178475.653aa8931b193.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pacifistapx0&label=Profile%20views&color=0e75b6&style=flat" alt="pacifistapx0" /> </p>
 
 - 🔭 I’m currently working on **Task Management System**
 
