@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/cf13e6f61a4af6d8032330f01d32bba3a4ac1f0610cd978a1cca641c613832cf/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d362e6a7067)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 <h1 align="center">Hi 👋, I'm Richie</h1>
 <h3 align="center">A backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/579fe1183178475.653aa8931b193.gif">
