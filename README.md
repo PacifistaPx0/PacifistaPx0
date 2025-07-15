@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/579fe1183178475.653aa8931b193.gif">
 
 
-- 🔭 I’m currently working on **Microservices**
+- 🔭 I’m currently working on **Microservices,** **MCP,** **LLMs**
 
 - 🌱 I’m currently learning **Go**
 
